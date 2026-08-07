@@ -14,7 +14,7 @@
 | | Флэш | до 128 ГБ | eMMC |
 | **Диски** | | | |
 | | PCIe SSD | 2 | M.2 M-key PCIe Gen3 x2 NVME 2280 |
-| | PCIe SSD | 2 | M.2 M-key PCIe Gen2 x2 NVME 2280 |
+| | PCIe SSD | 2 | M.2 M-key PCIe Gen2 x1 NVME 2280 |
 | **Интерфейсы** | | | |
 | | Ethernet | 2 | 1 Гб/с |
 | | USB 3.1 | 2 | Host, SS / HS, Type-A |
