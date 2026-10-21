@@ -6,10 +6,23 @@
 
 ## Фото платы
 
-Сверху платы — батарея, интерфейсные разъёмы, PoE+ модуль и процессор с памятью для отвода тепла на верхнюю крышку.
+Сверху платы — батарея, интерфейсные разъёмы, PoE+ модуль и процессор с памятью
+для отвода тепла на верхнюю крышку.
 
-[![Сверху платы](start88-nas-top.png)](start88-nas-top.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="start88-nas-top.png"><img src="start88-nas-top.png" width="640" alt="Сверху платы"/></a>
+    </td>
+  </tr>
+</table>
 
 Снизу платы — разъёмы дисков и модуля WiFi.
 
-[![Снизу платы](start88-nas-bot.png)](start88-nas-bot.png)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="start88-nas-bot.png"><img src="start88-nas-bot.png" width="640" alt="Снизу платы"/></a>
+    </td>
+  </tr>
+</table>
