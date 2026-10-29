@@ -3,3 +3,6 @@ hcc/
 
 # Cline rules
 .clinerules
+
+# local logs
+mcp-shell.log
