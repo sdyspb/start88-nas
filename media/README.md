@@ -1,5 +1,3 @@
-# Презентации
-
 [![Флаер](UberNAS-CommunityEdition2026.svg)](Start88-NAS-UberNAS-community-edition.pdf)
 
 [Просмотр презентации](Start88-NAS-UberNAS-community-edition.pdf)
