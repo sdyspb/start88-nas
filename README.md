@@ -1,5 +1,7 @@
 # Старт88-NAS
 
+![No language, just data that's all we need](media/slogan-no-language-just-data.svg)
+
 Мобильный гаджет для хранения данных объёмом до 32 терабайт
 
 [![Общий вид](media/Start88-juke.svg)](media/Start88-juke.svg)
