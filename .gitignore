@@ -1,6 +1,9 @@
 # HCC - commercial documents
 hcc/
 
+# Crowdfunding analysis - internal
+/crowdsupply/
+
 # Cline rules
 .clinerules
 
