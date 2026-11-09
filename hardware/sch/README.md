@@ -14,7 +14,7 @@ Start88‑NAS построен на базе 8‑ядерного процесс
 
 ### 2. Накопители (Storage)
 - **M.2 M‑key (PCIe Gen3 x2)** — до 2‑х дисков NVMe 2280.
-- **M.2 M‑key (PCIe Gen2 x2)** — до 2‑х дисков NVMe 2280.
+- **M.2 M‑key (PCIe Gen2 x1)** — до 2‑х дисков NVMe 2280.
 - **Micro SD** — внешняя карта памяти (uSD push‑pull).
 
 ### 3. Сетевые интерфейсы
@@ -75,7 +75,7 @@ Start88‑NAS построен на базе 8‑ядерного процесс
 | Блок        | Интерфейс       | Назначение                       |
 |-------------|----------------|----------------------------------|
 | eMMC        | eMMC I/O        | Основной флеш-накопитель         |
-| SSD         | PCIe Gen2/3 x2 | M.2 M-key (NVMe)                 |
+| SSD         | PCIe Gen3 x2 / Gen2 x1 | M.2 M-key (NVMe)                 |
 | WiFi/BT     | PCIe + USB     | M.2 E‑key                        |
 | Ethernet    | RGMII          | 2× GbE PHY                       |
 | HDMI        | HDMI 2.0/2.1   | Видеовыход                       |

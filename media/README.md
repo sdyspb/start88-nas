@@ -31,7 +31,7 @@
       <br/><br/>
       Разъёмы:
       <br/>• 2× M.2 M‑key 2280 (NVMe, PCIe Gen3 ×2)
-      <br/>• 2× M.2 M‑key 2280 (NVMe, PCIe Gen2 ×2)
+      <br/>• 2× M.2 M‑key 2280 (NVMe, PCIe Gen2 ×1)
     </td>
     <td width="60%" align="center" valign="top">
       <a href="start88-nas-bot.png"><img src="start88-nas-bot.png" width="720" alt="Снизу платы"/></a>

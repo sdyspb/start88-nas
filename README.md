@@ -41,7 +41,7 @@ RAID, питание по PoE+ или Type-C PD. Базовое исполнен
 | Процессор + NPU | 8 ядер (4×A76 + 4×A55), NPU 6 TOPS (INT8/FP16) |
 | Оперативная память | LPDDR4x до 32 ГБ |
 | Загрузочный раздел | eMMC 8–128 ГБ |
-| Диски | 4× M.2 M-key 2280 NVMe (2× PCIe Gen3 x2 + 2× PCIe Gen2 x2), до 8 ТБ на диск |
+| Диски | 4× M.2 M-key 2280 NVMe (2× PCIe Gen3 x2 + 2× PCIe Gen2 x1), до 8 ТБ на диск |
 | Сетевые интерфейсы | 2× GbE Ethernet (PoE+), M.2 E-key WiFi + BT |
 | Дисплей | 1.29″ OLED (I²C, статус) в базовом корпусе; опционально 5″+ MIPI-DSI сенсорный (отдельная плата) |
 | Кнопки и индикация | Power, Mode, Set (внешние), Reset (внутренний); Power/User LED, buzzer |
